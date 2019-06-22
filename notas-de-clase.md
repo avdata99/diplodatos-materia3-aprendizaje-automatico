@@ -24,7 +24,10 @@ Las matrices de confusión me da detalles de como fallan las clasificaciones mas
 
 Las _curvas ROC_ me ayudan con predicciones binarias. Se usa también las curvas _precision_ + _recall_.  
 
+## Cronograma
 
+Antes del viernes que viene entregar el LAB1. La forma de entrega es subirlo al _classroom_.    
+El LAB2 se entrega durante la próxima materia.  
 
 
 
